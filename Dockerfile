@@ -3,7 +3,7 @@
 # A simple base image for installing the mongodb-mms-backup-agent
 #
 ###
-FROM ubuntu:14.04
+FROM debian:wheezy
 MAINTAINER Kingsquare <docker@kingsquare.nl>
 
 ####
